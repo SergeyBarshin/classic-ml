@@ -8,3 +8,5 @@
 - [libs_tutorial](/libs_tutorial/) - Туториалы по библиотекам (NumPy, Matplotlib) из cs231
 - [Classification, Decision Trees and k Nearest Neighbors](/Classification,%20Decision%20Trees%20and%20k%20Nearest%20Neighbors/) - Алгоритмы классификации, деревья решений и метод k ближайших соседей
 - [Linear Classification and Regression](/Linear%20Classification%20and%20Regression/) - Линейные модели классификации и регрессии
+- [Bagging and Random Forest](/Bagging%20Cand%20CRandom%20CForest/) - Ансамбли. Бегинг. Случайный лес
+- [Feature Engineering and Feature Selection](/Bagging%20Cand%20CRandom%20CForest/) - Конструирование признаков
